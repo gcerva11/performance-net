@@ -1,0 +1,15 @@
+1	12	Daniel Zaragoza		2:08.23aSR SchoolThree
+2	11	Dante Ron		2:08.78a SchoolOne
+3	10	Colvin Hamel		2:09.33a SchoolFour
+4	11	Diego Perez		2:10.00aPR SchoolThree
+5	12	Daniel Vang		2:12.62a SchoolFive
+6	12	Angel Solis De La C...		2:13.76a SchoolThree
+7	11	Kevin Amador		2:16.17a SchoolThree
+8	12	Joaquin Moreno		2:17.06aSR SchoolTwo
+9	12	Luke Crawford		2:19.65aPR SchoolFour
+10	10	Larson Wejmar		2:19.66a SchoolThree
+11	11	Owen Hagelsieb		2:21.61aSR SchoolFive
+12	11	Elijah Suarez		2:22.83aPR SchoolFour
+13	12	Benjamin Guzman		2:28.10aSR SchoolOne
+14	12	Noe Garcia		2:31.96aSR SchoolThree
+15	11	Mario Vazquez		2:32.40a SchoolFive

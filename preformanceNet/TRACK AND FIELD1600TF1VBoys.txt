@@ -1,0 +1,15 @@
+1	11	Theodore Santos		4:39.84a SchoolThree
+2	12	Simrit Shergill		4:40.00a SchoolOne
+3	12	Daniel Zaragoza		4:40.83a SchoolThree
+4	10	Larson Wejmar		4:40.98aPR SchoolThree
+5	12	Jackson Hall		4:41.48aPR SchoolThree
+6	10	Colvin Hamel		4:42.81aPR SchoolFour
+7	12	Zaden Tovar		4:43.30aSR SchoolFive
+8	11	Kevin Amador		4:48.63aPR SchoolThree
+9	10	Cesar Bojorquez		4:49.27a SchoolFour
+10	11	Paul Cassagio		4:51.98aPR SchoolFour
+11	12	Daniel Vang		4:54.95aPR SchoolFive
+12	12	Angel Solis		4:55.19aPR SchoolThree
+13	11	Diego Perez		4:55.43a SchoolThree
+14	9	Eli Pimentel		5:01.15aPR SchoolFour
+15	10	Gabriel Penwell		5:04.91aPR SchoolFive

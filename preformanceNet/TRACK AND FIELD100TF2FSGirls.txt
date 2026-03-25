@@ -1,0 +1,15 @@
+1	9	Nayeli Mattison		13.55a SchoolFour
+2	10	Kayla Thompson		13.67a SchoolFour
+3	9	Serene Klair		13.70aSR SchoolThree
+4	9	Grace Word		13.91aSR SchoolOne
+5	10	Eris Lombrana		13.93a SchoolTwo
+6	10	Loralai Court		14.07a SchoolFive
+7	10	Charlize Phitsamay		14.11a SchoolSix
+8	10	Jennifer Soleyman		14.25aSR SchoolFour
+9	10	Angel Trefry Bet Ge...		14.30a SchoolThree
+10	9	Abigail Bruntmyer		14.38a SchoolTwo
+11	9	Frankie Ronveaux		14.41a SchoolThree
+12	9	Jaylani Victoriano		14.43a SchoolThree
+13	10	Malaysia Carter		14.43a SchoolSix
+14	10	Joslyn Sheppard		14.44aSR SchoolSix
+15	10	Natalie Galarreta		14.50a SchoolSix

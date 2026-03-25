@@ -1,0 +1,15 @@
+1	10	Daniel Garcia		54.65aPR SchoolOne
+2	9	Ismael Hernandez		55.23aPR SchoolThree
+3	9	Shane Petty		56.58aPR SchoolThree
+4	10	Jonathan Williams		56.61aPR SchoolOne
+5	9	Ethan Bubeck		57.30aPR SchoolTwo
+6	9	Adam Baker		57.56aPR SchoolThree
+7	10	Eli McLeland		57.58aPR SchoolTwo
+8	9	Alexander Rodriguez		58.16aPR SchoolOne
+9	10	Noah Wegner		58.92aPR SchoolTwo
+10	9	J'Kai Ramos-Moran		59.52aPR SchoolTwo
+11	10	Joel Galvan		1:00.31aPR SchoolTwo
+12	9	Ramzes Maciel		1:00.66aPR SchoolOne
+13	10	Elias Latronica		1:00.85aSR SchoolThree
+14	9	Yardley Hernandez		1:00.90aPR SchoolOne
+15	10	Mathias Dorner Jack...		1:01.25aPR SchoolTwo

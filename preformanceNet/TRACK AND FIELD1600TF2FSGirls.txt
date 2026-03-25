@@ -1,0 +1,12 @@
+1.	10	Lilly Edgerton		13:00.85aSR SchoolThree
+2.	9	Jordan Raudio		13:49.60a SchoolOne
+3.	9	Eliana Gloria		13:58.00a SchoolOne
+4.	10	Maguire Lima		13:58.82aSR SchoolThree
+5.	10	Aleena Nunez		14:03.17aPR SchoolOne
+6.	10	Charlotte Tooze		14:08.46a SchoolTwo
+7.	9	Emerson Newton		14:26.78aSR SchoolFour
+8.	10	Emely Vazquez		14:33.42a SchoolTwo
+9.	9	Dorothy Arnold		15:12.20a SchoolOne
+10.	10	Aileen Roque		15:14.12aPR SchoolFour
+11.	10	Arianna Tejeda		15:17.16aPR SchoolOne
+12.	10	Itzel Coss		16:38.58aPR SchoolOne

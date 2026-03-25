@@ -1,0 +1,15 @@
+1	10	David Magana		23.69a SchoolOne
+2	9	Jeremiah Raven		24.97aPR SchoolThree
+3	9	Ismael Hernandez		24.98a SchoolThree
+4	10	Elias Latronica		25.02aPR SchoolThree
+5	10	Jonathan Williams		25.18a SchoolFour
+6	9	Daniel Perales		25.23aPR SchoolTwo
+7	10	Eli McLeland		25.28a SchoolThree
+8	9	Sean Thomas-Barragan		25.44aPR SchoolOne
+9	10	Julius Padron		25.53aSR SchoolFour
+10	10	Antwain Harper		25.63a SchoolFour
+11	9	Adam Baker		25.67a SchoolThree
+12	9	Joshua Peinado		25.86aPR SchoolTwo
+13	10	Maxximus Foster		25.89aPR SchoolTwo
+14	10	Gavin Beard		25.92aPR SchoolFour
+15	10	Angelo Tantilla		26.04aPR SchoolFive

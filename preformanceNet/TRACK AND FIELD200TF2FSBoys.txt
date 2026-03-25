@@ -1,0 +1,15 @@
+1	9	Preston Ayala		23.91a SchoolThree
+2	10	Marcus Cruz		24.14a SchoolFour
+3	9	David Magana		24.25aSR SchoolOne
+4	10	Luke Ojcius		24.47a SchoolFour
+5	9	Bryant Mendes		24.63a SchoolFour
+6	9	Mihir Mathai		24.73a SchoolTwo
+7	10	David Gonzalez-Sant...		25.04aSR SchoolOne
+8	9	Jonathan Williams		25.18a SchoolFour
+9	9	Julius Padron		25.37aPR SchoolFour
+10	10	Tyce Thompson		25.52a SchoolFive
+11	9	Alan Ovrahim		25.64aPR SchoolTwo
+12	10	Jayden Kham		25.86a SchoolTwo
+13	10	Ulysses Gutierrez		25.90a SchoolThree
+14	10	Kaeden Chanthamany		25.91a SchoolTwo
+15	10	Noah Montgomery		26.12a SchoolTwo

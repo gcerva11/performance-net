@@ -1,0 +1,15 @@
+1	9	Faviola Hernandez		28.57a SchoolThree
+2	9	Amelia Spaulding		29.18aPR SchoolThree
+3	9	Alexa Gomez		29.21a SchoolOne
+4	10	Serene Klair		29.24aSR SchoolThree
+5	9	Alaijah Mitchell		29.27aPR SchoolFour
+6	9	Praise Ingram		29.34aPR SchoolOne
+7	10	Aila Reich		29.59a SchoolFour
+8	9	Serena Rodriguez		29.60aPR SchoolFive
+9	10	Claire Gornick		29.72a SchoolTwo
+10	9	Gretchen Nass		30.15aPR SchoolThree
+11	9	Alyssa Prakash		30.17aPR SchoolTwo
+12	10	Alina Garcia		30.25aPR SchoolFour
+13	10	Emma Lewis		30.60a SchoolThree
+14	10	Pressley Herbert		30.90aPR SchoolTwo
+15	9	Zariyah Dyson		30.94aPR SchoolTwo

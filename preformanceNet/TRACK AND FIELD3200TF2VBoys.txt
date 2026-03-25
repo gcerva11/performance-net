@@ -1,0 +1,15 @@
+1	12	Gavin VanOostende		10:02.10a SchoolThree
+2	10	Theodore Santos		10:20.11a SchoolThree
+3	12	Davian Alberto		10:26.77a SchoolOne
+4	11	Zaden Tovar		10:29.39aSR SchoolFive
+5	11	Daniel Zaragoza		10:36.45a SchoolThree
+6	11	Julius Camacho		10:37.22aPR SchoolFour
+7	11	Jackson Hall		10:46.66a SchoolThree
+8	11	Angel Solis De La C...		10:49.28a SchoolThree
+9	10	Dominic Crawford		10:53.41aPR SchoolFour
+10	12	Rylan Persons		10:54.30aPR SchoolFour
+11	12	Francisco Vazquez V...		10:55.15aPR SchoolTwo
+12	11	Ryan Arias		10:56.78a SchoolThree
+13	12	Emilio Sanchez		10:57.56aPR SchoolFour
+14	10	Dane Griswold		11:17.91a SchoolFive
+15	9	Gabriel Penwell		11:19.44aSR SchoolFive

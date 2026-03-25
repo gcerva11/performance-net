@@ -1,0 +1,10 @@
+1	12	Chloe Cook		11:59.44aPR SchoolTwo
+2	12	Johana Dominguez		12:30.43a SchoolOne
+3	12	Arianna Hurtado		12:33.70aPR SchoolThree
+4	12	Vanessa Diaz		12:57.73a SchoolOne
+5	12	Emily Ayala		13:24.18aSR SchoolThree
+6	11	Lila Brackett		13:29.90aSR SchoolThree
+7	11	Lorelei Scheele		14:00.50a SchoolFive
+8	11	Quetzaly Hernandez		14:02.14aPR SchoolThree
+9	11	Dayana Garcia		15:33.90aPR SchoolFour
+10	11	Emily Ashabraner		16:18.40aPR SchoolFour

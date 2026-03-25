@@ -1,0 +1,15 @@
+1	10	Thomas Bingham		2:18.34a SchoolFive
+2	10	Gabriel Avalos		2:21.65a SchoolThree
+3	10	Andres Cardenas		2:21.69a SchoolFour
+4	10	Jude Tecson		2:22.57aPR SchoolOne
+5	9	Owen Ahlem		2:24.88aPR SchoolThree
+6	9	Ivan Rodriguez		2:25.02a SchoolOne
+7	10	Jovani Franco		2:27.08aSR SchoolOne
+8	10	Lukas Gemperle		2:27.12aPR SchoolThree
+9	10	Luke Oliveira		2:29.67a SchoolThree
+10	9	Ethan Guina		2:29.99a SchoolFour
+11	10	Isaac Perez		2:30.43aPR SchoolFour
+12	10	Wyatt Clark		2:33.37a SchoolFive
+13	10	Jousha Hernandez-Ca...		2:33.52aPR SchoolThee
+14	9	Devon Santos		2:34.42aPR SchoolFive
+15	10	Aaron Sousa		2:35.37aPR SchoolThree

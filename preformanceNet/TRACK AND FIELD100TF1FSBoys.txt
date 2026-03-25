@@ -1,0 +1,15 @@
+1	10	Blayne Siebert		11.04a SchoolFour
+2	10	Eric Myles		11.29a SchoolFive
+3	11	Steven Salazar		11.31a SchoolThree
+4	12	Peter Mello		11.45a SchoolThree
+5	11	Aiden Muhammad		11.56aPR SchoolFive
+6	11	Charles McNary		11.58a SchoolSeven
+7	12	Larsen Jordon		11.61aSR SchoolTwo
+8	11	Derrick Kirkendall		11.72a SchoolSeven
+9	12	Adam Ammar		11.80a SchoolFive
+10	12	Jamel (JT) Foreman		11.84a SchoolThree
+11	12	Alex Velazquez		11.90aSR SchoolThree
+12	11	Matteo Diaz-Caporgno		11.90a SchoolFive
+13	11	Erik Chhue		11.90a SchoolOne
+14	10	Roman Quintero		11.96a SchoolThree
+15	12	Donovan Langarica		11.98aPR SchoolTwo

@@ -1,0 +1,15 @@
+1	12	Mehtaab Dhillon		17:11.22	SchoolOne	
+2	12	Behniya Esmaeilabadi		17:26.47	SchoolThree	
+3	11	Logan Petty		17:30.27	SchoolThree	
+4	12	Julius Camacho		17:37.52	SchoolFour	
+5	11	Theodore Santos		17:40.60	SchoolThree	
+6	12	Daniel Vang		17:45.54	SchoolFive	
+7	12	Daniel Zaragoza		17:57.07	SchoolThree	
+8	12	Julian Hernandez		18:01.54	SchoolThree	
+9	10	Colvin Hamel		18:04.90	SchoolFour	
+10	10	Cesar Bojorquez		18:07.96	SchoolSeven	
+11	12	Finn Johnston		18:09.17	SchoolSeven	
+12	12	Ryan Arias		18:20.98	SchoolThree	
+13	12	Zaden Tovar		18:21.86	SchoolFive	
+14	12	Ezekiel Lloyd		18:21.91	SchoolFive	
+15	11	Diego Perez		18:23.85	SchoolThree	

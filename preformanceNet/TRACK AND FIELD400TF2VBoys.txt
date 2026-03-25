@@ -1,0 +1,15 @@
+1	12	Joey Stout		50.84a SchoolFour
+2	12	Rusty Jones		53.62aPR SchoolTwo
+3	11	Julian Hernandez		54.26a SchoolThree
+4	12	Gabriel Hernandez		54.66a SchoolTwo
+5	10	Carson Lamb		54.85aPR SchoolTwo
+6	12	Jayden Wiley		55.12aSR SchoolThree
+7	12	Gavin Cox		55.33aPR SchoolThree
+8	11	Aric Singh		55.39a SchoolFour
+9	12	Hezekiah Longoria		55.78a SchoolFour
+10	11	John Sylvester		55.96aSR SchoolFour
+11	11	Connor Bailey		56.10aPR SchoolThree
+12	11	Reuben Lewis		56.42aPR SchoolTwo
+13	11	Ceaser Perez		56.57a SchoolThree
+14	11	Moises Valencia		57.16aPR SchoolFour
+15	11	Noah Hin		57.17a SchoolFive

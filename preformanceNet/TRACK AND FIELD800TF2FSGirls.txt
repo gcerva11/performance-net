@@ -1,0 +1,14 @@
+1	9	Jei Liv		2:32.92aPR SchoolTwo
+2	9	Eliana Gloria		2:39.53a SchoolOne
+3	10	Aubrey Webb		2:47.85a SchoolThree
+4	10	Lilly Edgerton		2:48.12aPR SchoolThree
+5	10	Aleena Nunez		2:52.70a SchoolOne
+6	10	Maguire Lima		2:54.13a SchoolThree
+7	10	Arianna Tejeda		2:55.24a SchoolOne
+8	9	Jordan Raudio		2:59.96aPR SchoolOne
+9	9	Abril Lara		3:00.58a SchoolFour
+10	10	Guadalupe Cervantes		3:01.21a SchoolOne
+11	9	Dorothy Arnold		3:02.56a SchoolOne
+12	10	Aaliya Alvarado		3:03.91a SchoolOne
+13	10	Genesis Anguiano		3:06.22a SchoolFour
+14	10	Natalie Rodriguez		3:09.53aPR SchoolFour

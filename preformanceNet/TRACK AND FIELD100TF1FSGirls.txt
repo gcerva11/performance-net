@@ -1,0 +1,15 @@
+1	9	Praise Ingram		13.74aPR SchoolOne
+2	10	Grace Word		13.76aPR SchoolOne
+3	10	Serene Klair		13.91a SchoolThree
+4	9	Alaijah Mitchell		14.04aPR SchoolFour
+5	9	Alexa Gomez		14.08a SchoolOne
+6	9	Keshayla Phillips		14.12aPR SchoolTwo
+7	10	Kayliyah Williams		14.12aPR SchoolFour
+8	9	Serena Rodriguez		14.16aPR SchoolFive
+9	9	Clarissa Vallejo		14.22aPR SchoolFour
+10	9	Julianne Ramirez		14.26aPR SchoolFour
+11	9	Kearra Phillips		14.28aPR SchoolTwo
+12	9	Zariyah Dyson		14.30aPR SchoolTwo
+13	9	Madeline Oum		14.31aPR SchoolTwo
+14	10	Alina Garcia		14.37aPR SchoolSeven	
+15	10	Kennadi Williams		14.41aSR SchoolSeven

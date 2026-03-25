@@ -1,0 +1,13 @@
+1	12	Jackson Hall		9:53.87aPR SchoolThree
+2	10	Larson Wejmar		10:11.21a SchoolThree
+3	12	Daniel Zaragoza		10:12.02aPR SchoolThree
+4	12	Behniya Esmaeilabadi		10:12.60aSR SchoolThree
+5	11	Theodore Santos		10:16.54aSR SchoolThree
+6	12	Zaden Tovar		10:25.81a SchoolFive
+7	11	Kevin Amador		10:31.67aPR SchoolThree
+8	10	Gabriel Penwell		10:49.73a SchoolFive
+9	9	Eli Pimentel		10:53.32aPR SchoolFour
+10	11	Nathan Kry		11:20.18aSR SchoolOne
+11	11	Jacob Costa		11:23.84aPR SchoolFour
+12	12	Noe Garcia		11:30.92aPR SchoolThree
+13	12	Luke Crawford		11:41.41a SchoolFour

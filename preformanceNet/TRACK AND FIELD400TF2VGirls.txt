@@ -1,0 +1,15 @@
+1	11	Olivia Walker		1:00.40a SchoolThree
+2	10	Zoe Lamur		1:03.81a SchoolThree
+3	9	Claire Gornick		1:06.01aPR SchoolThree
+4	11	Jada Orona		1:06.36aPR SchoolTwo
+5	11	Kirstin Padilla		1:06.42a SchoolOne
+6	9	Karlie Powell		1:06.55aPR SchoolThree
+7	10	Kaytlynn Nice		1:06.64a SchoolFive
+8	11	Elisa Ocegueda		1:06.95aPR SchoolThree
+9	10	Maci Raby		1:08.69a SchoolOne
+10	12	Khalia Edwards		1:08.83a SchoolOne
+11	11	Madison Sanguinetti		1:10.08a SchoolThree
+12	9	Mischa Geske		1:10.51aPR SchoolTwo
+13	11	Jayden Jimenez		1:10.76aPR SchoolThree
+14	11	Emily Hasten-Perez		1:11.02a SchoolOne
+15	12	Kaimana Renteria		1:11.65aPR SchoolTwo

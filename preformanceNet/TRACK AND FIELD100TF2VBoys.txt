@@ -1,0 +1,15 @@
+1	12	Joey Stout		10.91a (1.4) SchoolFour
+2	12	Rusty Jones		11.06a (1.4) SchoolSix
+3	11	Blayne Siebert		11.08a (1.4) SchoolFour
+4	10	Eric Myles		11.16a (1.4) SchoolFive
+5	12	Gabriel Hernandez		11.34a (1.6)PR SchoolSix
+6	11	Charles McNary		11.42a (1.4) SchoolSix
+7	12	Peter Mello		11.51a (1.4) SchoolFour
+8	10	Joseph Ramirez		11.66a (1.6) SchoolSix
+9	11	Sean Forte		11.70a (3.4) SchoolFour
+10	11	Aiden Muhammad		11.72a (1.4) SchoolFive
+11	12	Jamel (JT) Foreman		11.77a (1.6)PR SchoolFour
+12	11	Jack Hinchey		11.77a (3.4)PR SchoolSix
+13	11	Derrick Kirkendall		11.78a (1.4) SchoolSix
+14	11	Matteo Diaz-Caporgno		11.84a (1.6)SR SchoolFive
+15	12	Adam Ammar		11.85a (1.6) SchoolFive

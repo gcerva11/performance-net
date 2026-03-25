@@ -1,0 +1,15 @@
+1	9	Mylie Olson		5:45.10a SchoolThree
+2	10	Eliana Gloria		5:59.35a SchoolOne
+3	10	Dorothy Arnold		6:12.63aPR SchoolOne
+4	10	Jei Liv		6:16.83aSR SchoolTwo
+5	10	Elizabeth Christoph		6:21.57aPR SchoolThree
+6	10	Jasmine Ricardez		6:21.69a SchoolFive
+7	9	Nayeli Solis	6:34.15a SchoolThree
+8	9	Melanie Delgado		6:34.87aPR SchoolFour
+9	9	Milan Ron		6:36.53a SchoolOne
+10	10	Abril Lara		6:44.49aPR SchoolFour
+11	9	Danika Mann		6:45.60aPR SchoolThree
+12	10	Dalia Elgammal		6:50.21a SchoolFour
+13	10	Jordan Raudio		6:55.66aSR SchoolOne
+14	9	Leilani Flores		6:57.07aPR SchoolTwo
+15	9	Jeanette Cisneros		7:04.82a SchoolTwo

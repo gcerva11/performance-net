@@ -1,0 +1,17 @@
+1	10	Jei Liv		14:05.85		SchoolTwo	
+2	10	Ashli Mendoza		14:07.89		SchoolFour	
+3	9	Gretchen Nass		14:09.27		SchoolThree	
+4	10	Eliana Gloria		14:13.87		SchoolOne	
+5	10	Dorothy Arnold		14:16.76		SchoolOne	
+6	9	Milan Ron		14:56.52		SchoolOne	
+7	9	Kaylee Hartfield		14:58.87		SchoolTwo	
+8	10	Grace Word		15:06.74		SchoolOne	
+9	9	Melanie Delgado		15:06.94		SchoolFour	
+10	9	Nayeli Solis - De La Cruz		15:12.71		SchoolThree	
+11	10	Armani Young		15:30.15		SchoolTwo	
+12	9	Xiara Moreno		15:44.87		SchoolThree	
+13	9	Malaina Gallegos		15:44.91		SchoolTwo	
+14	10	Ashley Diaz		15:53.33		SchoolThree	
+15	10	Ivanka Belmontes		15:55.57		SchoolTwo	
+
+

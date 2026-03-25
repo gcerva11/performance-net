@@ -1,0 +1,15 @@
+1	10	Thomas Bingham		5:02.98a SchoolFive
+2	10	Gabriel Avalos		5:04.09a SchoolThree
+3	10	Ayden Mendonca		5:04.31a SchoolThree
+4	9	Samuel Oppenhuizen		5:09.70a SchoolThree
+5	9	Ivan Rodriguez		5:11.65aPR SchoolOne
+6	10	Jovani Franco		5:12.48aSR SchoolOne
+7	9	Gavin Martin		5:12.76a SchoolThree
+8   10	Lukas Gemperle		5:13.04aPR SchoolThree
+9	10	Jude Tecson		5:13.81aPR SchoolOne
+10	10	Andres Cardenas		5:21.08aPR SchoolFour
+11	10	Santiago Anaya Plata		5:22.33aSR SchoolThree
+12	9	Owen Ahlem		5:23.70aPR SchoolThree
+13	10	Luke Oliveira		5:24.82aSR SchoolThree
+14	9	Ethan Guina		5:29.03 aSchoolFour
+15	9	Eli Scott		5:30.89aPR SchoolFour

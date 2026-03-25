@@ -1,0 +1,15 @@
+1	11	Julian Hernandez		2:04.48a SchoolThree
+2	11	Mehtaab Dhillon		2:05.64aPR SchoolOne
+3	12	Javier Camacho		2:07.05a SchoolFour
+4	11	Simrit Shergill		2:07.59a SchoolOne
+5	11	Daniel Zaragoza		2:07.62a SchoolThree
+6	12	Diego Cisneros		2:07.86aSR SchoolFour
+7	11	Joaquin Moreno		2:08.44aPR SchoolTwo
+8	12	Gavin VanOostende		2:10.02aPR SchoolThree
+9	10	Theodore Santos		2:10.17aPR SchoolThree
+10	11	Ezekiel Lloyd		2:10.42a SchoolFive
+11	11	Ryan Arias		2:14.55aPR SchoolThree
+12	11	Daniel Vang		2:15.40a SchoolFive
+13	10	Dante Ron		2:16.98a SchoolOne
+14	11	Jackson Hall		2:17.87aPR SchoolThree
+15	12	Ryan Dhillon		2:17.96a SchoolFour

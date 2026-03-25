@@ -1,0 +1,15 @@
+1	12	Maci Day		5:21.16aSR SchoolFour
+2	10	Maya Wolfe		5:24.32aPRSchoolOne
+3	10	Zoe Leach		5:27.45aSR Downey
+4	10	Adelyn Persons		5:39.43a SchoolFour
+5	11	Aubrey Lascano		5:40.35aSR SchoolFour
+6	12	Adamari Ron		5:46.70a SchoolOne
+7	11	Ava Torres		5:47.13aPR SchoolThree
+8	12	Vanessa Diaz		5:49.42aPR SchoolOne
+9	12	Johana Dominguez		5:49.81aPR SchoolOne
+10	12	Arianna Hurtado		5:56.67a SchoolThree
+11	12	Emily Ayala		6:11.42aPR SchoolThree
+12	12	Amaia Perez Hoover		6:11.44a SchoolFive
+13	11	Lila Brackett		6:11.89aSR SchoolThree
+14	11	Jayden Jimenez		6:13.73aSR SchoolThree
+15	12	Tianna Karr		6:17.79a SchoolFour

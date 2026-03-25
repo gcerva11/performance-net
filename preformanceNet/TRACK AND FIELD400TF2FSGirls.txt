@@ -1,0 +1,15 @@
+1	9	Jei Liv		1:05.13aPR SchoolTwo
+2	9	Grace Word		1:07.93a SchoolOne
+3	10	Sofia Mort		1:09.17a SchoolFive
+4	9	Emerson Newton		1:09.19a SchoolFour
+5	10	Maguire Lima		1:10.16a SchoolThree
+6	10	Imma Lynn Ruiz		1:10.76a SchoolFive
+7	10	Karen Villa		1:13.27aPR SchoolOne
+8	10	Arianna Tejeda		1:13.54a SchoolOne
+9	9	Kennadi Williams		1:14.53a SchoolTwo
+10	9	Evelyn Hollinger		1:16.03a SchoolThree
+11	9	Natalia Plascencia		1:16.32aPR SchoolThree
+12	9	Samantha Lee		1:16.74a SchoolTwo
+13	10	Abigail Aldawood		1:17.29a SchoolFive
+14	9	Mia Dagio		1:17.41a SchoolFour
+15	10	Harjapji Sandhu		1:17.81a SchoolFour

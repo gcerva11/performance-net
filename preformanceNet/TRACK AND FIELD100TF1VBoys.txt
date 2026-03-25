@@ -1,0 +1,15 @@
+1	12	Blayne Siebert		10.91a SchoolFour
+2	11	Carson Lamb		11.41aPR SchoolSix
+3	11	Eric Myles		11.42aSR SchoolFive
+4	11	Marcus Cruz		11.45aPR SchoolSix
+5	12	Sean Forte		11.50a SchoolFour
+6	12	Adrian Sandoval		11.65aPR SchoolThree
+7	11	Joseph Ramirez		11.69a SchoolSix
+8	11	Ethan Woodmansee		11.73aSR SchoolSix
+9	12	John Sylvester		11.76aPR SchoolFour
+10	11	Kaeden Patterson		11.77a SchoolThree
+11	11	Roman Quintero		11.79a SchoolThree
+12	11	Aldo Robles		11.80a SchoolOne
+13	12	Matteo Diaz-Caporgno		11.83aPR SchoolFive
+14	12	Derrick Kirkendall		11.84aSR SchoolSix
+15	11	Francisco Zavala		11.87aPR SchoolThree

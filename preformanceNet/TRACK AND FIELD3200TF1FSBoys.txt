@@ -1,0 +1,13 @@
+1	9	Samuel Oppenhuizen		10:32.34aPR SchoolThree
+2	10	Gabriel Avalos		10:34.36aPR SchoolThree
+3	10	Ayden Mendonca		10:34.52a SchoolThree
+4	10	Luke Oliveira		11:14.49aPR SchoolThree
+5	10	Lukas Gemperle		11:14.94a SchoolThree
+6	10	Santiago Anaya Plata		11:35.55a SchoolThree
+7	9	Eli Scott		11:53.96aPR SchoolFour
+8	10	Ethan Early		12:00.13aPR SchoolThree
+9	9	Owen Ahlem		12:06.48a SchoolThree
+10	10	Aaron Sousa		12:28.94a SchoolThree
+11	10	Isaac Perez		12:32.94aPR SchoolFour
+12	10	Ethan Hughes		13:01.38aPR SchoolFive
+13	10	Trejan Rawls		13:45.45aPR SchoolFive

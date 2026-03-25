@@ -1,0 +1,15 @@
+1	9	Faviola Hernandez		1:05.13aPR SchoolThree
+2	10	Claire Gornick		1:07.07aSR SchoolTwo
+3	10	Grace Word		1:07.16a SchoolOne
+4	10	Ashley Diaz		1:08.02aPR SchoolThree
+5	9	Petra Navarro Jerner		1:10.14a SchoolThree
+6	9	Bria Eastman		1:11.23a SchoolOne
+7	9	Evangeline Leer		1:12.35aPR SchoolTwo
+8	10	Sierra Jeppson		1:12.98aPR SchoolTwo
+9	9	Sophia Farrell		1:13.04aPR SchoolTwo
+10	10	Faith Perez		1:14.19a SchoolOne
+11	9	Celeste Fronseca		1:14.70aPR SchoolTwo
+12	10	Aveia Abernathy		1:16.00aPR SchoolOne
+13	10	Evelyn Hollinger		1:16.03a SchoolThree
+14	9	Vivian Simon		1:17.06aPR SchoolTwo
+15	9	Judith Suastegui		1:17.45aPR SchoolTwo

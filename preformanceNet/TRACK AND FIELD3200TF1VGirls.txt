@@ -1,0 +1,8 @@
+1	10	Avery Carlson		11:46.89a SchoolThree
+2	12	Aubrey Lascano		11:56.65a SchoolThree
+3	11	Aubrey Webb		12:15.14a SchoolThree
+4	11	Lilly Edgerton		12:17.84aPR SchoolThree
+5	10	Emerson Newton		12:55.72aPR SchoolThree
+6	12	Lila Brackett		13:05.92a SchoolThree
+7	12	Lorelei Scheele		14:51.14aSR SchoolFive
+8	11	Jade Paniagua		15:43.45aPR SchoolThree

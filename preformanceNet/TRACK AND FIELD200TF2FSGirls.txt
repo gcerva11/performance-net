@@ -1,0 +1,15 @@
+1	10	Sofia Martinez		28.07a SchoolFour
+2	10	Kayla Thompson		28.28aPR SchoolFour
+3	9	Serene Klair		29.34a SchoolThree
+4	10	Eris Lombrana		29.46aSR SchoolTwo
+5	10	Sofia Mort		29.50a SchoolFive
+6	9	Grace Word		29.55a SchoolOne
+7	10	Malaysia Carter		29.76aPR SchoolFour
+8	10	Angel Trefry	29.85a SchoolThree
+9	10	Charlize Phitsamay		30.08a SchoolFour
+10	10	Natalie Galarreta		30.24aPR SchoolFour
+11	10	Imma Lynn	30.30a SchoolFive
+12	9	Alina Garcia		30.53aSR SchoolFour
+13	10	Joslyn Sheppard		31.07aSR SchoolFour
+14	9	Natalia Plascencia		31.22a SchoolThree
+15	10	Cristina Perez		31.29a SchoolFour

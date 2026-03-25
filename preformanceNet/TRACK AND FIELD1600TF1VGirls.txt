@@ -1,0 +1,16 @@
+1	9	Maya Day		5:23.87aPR SchoolThree
+2	11	Zoe Leach		5:24.25a SchoolFour
+3	10	Avery Carlson		5:24.57a SchoolFour
+4	12	Aubrey Lascano		5:28.72aPR SchoolFour
+5	11	Maguire Lima		5:52.10a SchoolThree
+6	11	Aubrey Webb		5:55.54a SchoolThree
+7	11	Adelyn Persons		6:00.48a SchoolFour
+8	11	Maya Wolfe		6:02.45aSR SchoolOne
+9	11	Lilly Edgerton		6:05.44a SchoolThree
+10	12	Jayden Jimenez		6:13.30aPR SchoolThree
+11	11	Guadalupe Cervantes		6:29.32a SchoolOne
+12	11	Mariana Ortiz		6:44.19aSR SchoolFour
+13	11	Aileen Roque		6:51.71a SchoolFour
+14	12	Genesis Anguiano		6:59.79aSR SchoolFour
+15	11	Grecia Castro Acosta		7:05.80a SchoolFour
+

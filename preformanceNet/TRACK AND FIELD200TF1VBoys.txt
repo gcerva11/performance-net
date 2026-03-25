@@ -1,0 +1,15 @@
+1	11	Carson Lamb		23.22a SchoolFour
+2	12	Steven Salazar		23.25aPR SchoolThree
+3	12	Sean Forte		23.44a SchoolFour
+4	12	Reggieon Foster		23.53aSR SchoolTwo
+5	12	Zillion Johnson		23.57aPR SchoolTwo
+6	12	Noah Hin		23.64a SchoolFive
+7	11	Marcus Cruz		24.12a SchoolFour
+8	11	Ethan Woodmansee		24.17a SchoolFour
+9	12	Derrick Kirkendall		24.25aSR SchoolFour
+10	11	Aldo Robles		24.30aSR SchoolOne
+11	12	Matteo Diaz-Caporgno		24.42a SchoolFive
+12	11	Francisco Zavala		24.46a SchoolThree
+13	9	Jace Lasater		24.51a SchoolFive
+14	12	Daimyun Luevano		24.56a SchoolTwo
+15	12	Antonio Vizcaino		24.66a SchoolFour

@@ -1,0 +1,15 @@
+1	11	Adelyn Persons		2:35.78a SchoolFour
+2	11	Maguire Lima		2:36.27a SchoolThree
+3	10	Emerson Newton		2:41.16a SchoolFour
+4	11	Aleena Nunez		2:44.71a SchoolOne
+5	12	Jayden Jimenez		2:45.23aPR SchoolThree
+6	11	Charlotte Tooze		2:46.25aSR SchoolTwo
+7	11	Emely Vazquez-Victo...		2:47.33aPR SchoolTwo
+8	11	Arianna Tejeda		2:54.80aSR SchoolOne
+9	12	Lily Danhoff		2:55.86aSR SchoolTwo
+10	11	Aileen Roque		3:05.49aSR SchoolFour
+11	12	Genesis Anguiano		3:09.21aSR SchoolFour
+12	11	Aaliya Alvarado		3:10.63aSR SchoolOne
+13	11	Alexsa Ibarra Fausto		3:13.94a SchoolTwo
+14	11	Kayla Velasco		3:21.52aSR SchoolFive
+15	11	Thalia Ramirez		3:34.45aSR SchoolOne

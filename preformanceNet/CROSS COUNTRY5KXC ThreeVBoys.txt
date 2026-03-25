@@ -1,0 +1,15 @@
+1 12 Mehtaab Dhillon 16:33.92 SchoolSeven
+2 11 Logan Petty 16:34.07 SchoolThree
+3 11 Theodore Santos 16:46.92 SchoolThree
+4 9 Hasan Modan 16:49.20 SchoolTwo
+5 12 Daniel Zaragoza 16:54.28 SchoolThree
+6 11 Gavin Flanders 16:56.43 SchoolSeven
+7 12 Jackson Hall 17:01.33 SchoolThree
+8 12 Julius Camacho 17:05.46 SchoolFour
+9 12 Ezekiel Lloyd 17:05.58 SchoolFive
+10 12 Behniya Esmaeilabadi 17:14.11 SchoolThree
+11 10 Grant Fahrney 17:14.99 SchoolTwo
+12 12 Finn Johnston 17:15.35 SchoolSeven
+13 12 Daniel Vang 17:25.78 SchoolFive
+14 12 Angel Solis De La Cruz 17:31.69 SchoolThree
+15 10 Gabriel Penwell 17:32.08 SchoolFive

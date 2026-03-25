@@ -1,0 +1,15 @@
+1	12	Shaylan Roy-Williams		12.19aSR SchoolThree
+2	12	Olivia Walker		12.75aSR SchoolThree
+3	12	Evelyn Ladine		12.96aSR SchoolThree
+4	11	Natalie Thorning		12.97a SchoolFive
+5	11	Angel Trefry		13.31aPR SchoolThree
+6	12	Jada Orona		13.43a SchoolSix
+7	11	Loralai Court		13.61aPR SchoolFive
+8	11	Sofia Martinez		13.62aSR SchoolFour
+9	11	Sarina Ramirez		13.64a SchoolThree
+10	12	Jocelyn Figueroa		13.66aPR SchoolTwo
+11	10	Jayla Brown		13.70a SchoolFive
+12	11	Alexa Sandoval		13.72a SchoolThree
+13	11	Kayla Thompson		13.76aSR SchoolFour
+14	11	Joslyn Sheppard		13.88aPR SchoolSix
+15	10	Mischa Geske		13.95aSR SchoolSix

@@ -1,0 +1,15 @@
+1	12	Steven Salazar		52.84a SchoolThree
+2	12	Aric Singh		53.34aSR SchoolFour
+3	9	Jace Lasater		53.51aPR SchoolFive
+4	12	Noah Hin		53.54a SchoolFive
+5	11	Jesus Moreno		54.98a SchoolOne
+6	11	Matthew Tsymbal		56.23aSR SchoolThree
+7	11	Logan Petty		56.48aPR SchoolThree
+8	12	Ceaser Perez		56.63aSR SchoolThree
+9	12	Dallas Cantu		56.97a SchoolTwo
+10	12	Everett Johnson		57.44aSR SchoolTwo
+11	11	Bradlee Green		57.65aPR SchoolThree
+12	12	Julian Hernandez		58.01aSR SchoolThree
+13	11	Angel Flores Vega		58.73aSR SchoolOne
+14	12	Antonio Vizcaino		59.16a SchoolTwo
+15	11	Todd McKinney		59.77aPR SchoolFive

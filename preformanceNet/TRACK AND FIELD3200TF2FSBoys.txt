@@ -1,0 +1,15 @@
+1	10	Diego Perez		10:48.76aSR SchoolThree
+2	10	Kevin Amador		10:51.57aSR SchoolThree
+3	10	Nicholas Lema		10:52.85aPR SchoolOne
+4	9	Gabriel Avalos		10:56.64aSR SchoolThree
+5	9	Jovani Franco		11:26.44a SchoolOne
+6	10	Nathan Kry		11:29.74a SchoolOne
+7	9	Jude Tecson		11:31.41a SchoolOne
+8	10	Isaac Gonzalez Yepez		11:33.49aPR SchoolTwo
+9	9	Luke Oliveira		11:37.17aSR SchoolThree
+10	10	Omar Madriz		11:37.71aPR SchoolFour
+11	10	Leighton Bridges		11:41.32a SchoolOne
+12	10	Daniel Nikzad		11:46.47aPR SchoolFour
+13	9	Angelo Hillas		11:51.59aPR SchoolFive
+14	10	Everest Colnic		12:20.64a SchoolFour
+15	10	Sean Dhillon		12:46.67aPR SchoolFour

@@ -1,0 +1,15 @@
+1	10	Thomas Suarez		2:11.25aPR SchoolTwo
+2	10	Diego Perez		2:14.86a SchoolThree
+3	9	Grant Fahrney		2:16.10aPR SchoolTwo
+4	10	Owen Hagelsieb		2:19.08a SchoolFive
+5	10	Jacob Costa		2:19.92a SchoolTwo
+6	9	Thomas Bingham		2:22.13a SchoolFive
+7	10	Nathan Kry		2:22.38aPR SchoolOne
+8	10	Kevin Amador		2:23.21a SchoolThree
+9	9	Wyatt Clark		2:23.60aPR SchoolFive
+10	9	Luis Rodriguez		2:23.63aPR SchoolTwo
+11	10	Liam Gordon		2:24.45aPR SchoolTwo
+12	9	Gabriel Avalos		2:25.35a SchoolThree
+13	9	Jovani Franco		2:26.17a SchoolOne
+14	10	Abel Silva		2:26.89aPR SchoolThree
+15	9	Luke Oliveira		2:28.86aSR SchoolThree

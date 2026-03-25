@@ -1,0 +1,15 @@
+1	9	Thomas Bingham		4:53.13aSR SchoolFive
+2	10	Diego Perez		4:53.36a SchoolThree
+3	9	Cesar Bojorquez		4:58.59a SchoolThree
+4	10	Nicholas Lema		5:01.38aPR SchoolOne
+5	10	Paul Cassagio		5:02.38a SchoolThree
+6	10	Thomas Suarez		5:03.29aPR SchoolFour
+7	10	Kevin Amador		5:03.31a SchoolThree
+8	10	Nathan Kry		5:04.56a SchoolOne
+9	9	Jovani Franco		5:10.95a SchoolOne
+10	9	Gabriel Avalos		5:12.03aSR SchoolThree
+11	9	Wyatt Clark		5:17.36a SchoolFive
+12	10	Omar Madriz		5:17.57a SchoolFour
+13	10	Leighton Bridges		5:17.64a SchoolOne
+14	9	Jude Tecson		5:19.01a SchoolOne
+15	10	Jacob Costa		5:19.56a SchoolFour

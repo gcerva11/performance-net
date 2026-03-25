@@ -1,0 +1,15 @@
+1	9	Hasan Modan		11:47.23	SchoolTwo	
+2	10	Grant Fahrney		11:47.29	SchoolTwo	
+3	10	Jude Tecson		12:11.73	SchoolOne	
+4	10	Lukas Gemperle		12:15.01	SchoolThree	
+5	9	Zayn Hamilton		12:17.33	SchoolThree	
+6	9	Gavin Martin		12:19.40	SchoolThree	
+7	9	Eli Scott		12:25.72	SchoolFour	
+8	9	Eli Pimentel		12:27.15	SchoolFour	
+9	9	Samuel Oppenhuizen		12:29.51	SchoolThree	
+10	9	Alexander Rodriguez Perez		12:29.70	SchoolOne	
+11	9	Joe Travao		12:31.73	SchoolOne	
+12	9	Ethienne Vega		12:35.19	SchoolTwo	
+13	10	Santiago Anaya Plata		12:40.98	SchoolThree	
+14	10	Luke Oliveira		12:49.01	SchoolThree	
+15	10	Langtyra Yi		12:53.10	SchoolOne	

@@ -1,0 +1,16 @@
+1	11	Zoe Leach		19:42.14	SchoolSeven	
+2	11	Maya Wolfe		20:00.10	SchoolOne	
+3	10	Avery Carlson		20:06.39	SchoolFour	
+4	9	Maya Day		20:49.69	SchoolThree	
+5	12	Aubrey Lascano		21:15.54	SchoolFour	
+6	11	Lilly Edgerton		22:07.38	SchoolThree	
+7	11	Adelyn Persons		22:12.24	SchoolFour	
+8	12	Madeline Van 		22:12.96	SchoolFour	
+9	10	Emerson Newton		22:17.00	SchoolFour	
+10	10	Eliana Gloria		22:28.01	SchoolOne	
+11	10	Nayeli Mattison		22:39.31	SchoolFour	
+12	12	Lila Brackett		22:45.32	SchoolThree	
+13	12	Jayden Jimenez		23:00.99	SchoolThree	
+14	11	Kayla Thompson		23:05.00	SchoolFour	
+15	12	Madison Sanguinetti		23:08.33	SchoolTwo	
+

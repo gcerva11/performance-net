@@ -1,0 +1,15 @@
+1	10	Marcus Cruz		11.54a SchoolSix
+2	9	Preston Ayala		11.65aPR SchoolThree
+3	9	David Magana		11.86aSR SchoolOne
+4	9	Bryant Mendes		11.86aPR SchoolSix
+5	10	Luke Ojcius		11.95aPR SchoolSix
+6	10	Tyce Thompson		12.05a SchoolFive
+7	9	Julius Padron		12.08aPR SchoolSix
+8	9	Cole Martin		12.10a SchoolFour
+9	9	Mihir Mathai		12.11a SchoolTwo
+10	9	Tyre Duncan		12.13aPR SchoolFour
+11	10	Ulysses Gutierrez		12.19aPR SchoolThree
+12	10	Jayden Kham		12.20a SchoolTwo
+13	10	Alton Williams		12.27a SchoolTwo
+14	10	Jose Ramos		12.30a SchoolSix
+15	10	Kaleb Smith		12.30a SchoolTwo

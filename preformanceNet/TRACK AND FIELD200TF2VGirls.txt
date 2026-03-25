@@ -1,0 +1,15 @@
+1	11	Shaylan Roy-Williams		25.88a SchoolThree
+2	11	Olivia Walker		26.40a SchoolThree
+3	10	Natalie Thorning		27.27a SchoolFive
+4	10	Alexa Sandoval		27.60a SchoolThree
+5	10	Abigail Davis		28.20a SchoolFive
+6	11	Alexandra Zavala		28.59aSR SchoolOne
+7	9	Jayla Brown		28.67a SchoolFive
+8	11	Kirstin Padilla		28.71a SchoolFour
+9	12	Brionna Bass		28.71aPR SchoolFour
+10	10	Kaytlynn Nice		29.07aSR SchoolFive
+11	11	Jada Orona		29.08a SchoolThee
+12	12	Jacqueline Maggard		29.31aSR SchoolThree
+13	12	Jenna Johnson		29.44a SchoolTwo
+14	10	Maci Raby		29.49aSR SchoolOne
+15	12	Zusette Rueda Zamora		29.97aSR SchoolThee

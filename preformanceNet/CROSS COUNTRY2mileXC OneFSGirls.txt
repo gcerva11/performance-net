@@ -1,0 +1,15 @@
+1	9	Mylie Olson		14:21.33	SchoolThree	
+2	10	Ashli Mendoza		14:39.00	SchoolFour	
+3	10	Dorothy Arnold		14:55.04	SchoolOne	
+4	9	Milan Ron		14:58.72	SchoolOne	
+5	10	Jei Liv		15:02.69	SchoolTwo	
+6	9	Kaylee Hartfield		15:21.03	SchoolTwo	
+7	10	Lilly Griffin		15:27.48	SchoolSeven	
+8	9	Xiara Moreno		15:57.40	SchoolThree	
+9	9	Melanie Delgado		16:05.15	SchoolFour	
+10	9	Malaina Gallegos		16:09.07	SchoolTwo	
+11	9	Gretchen Nass		16:11.94	SchoolThree	
+12	10	Ivanka Belmontes		16:13.07	SchoolTwo	
+13	10	Faith Perez		16:20.94	SchoolOne	
+14	9	Emily Nichols		16:28.53	SchoolFour	
+15	10	Kayla Kuwamoto		16:28.99	SchoolSeven	

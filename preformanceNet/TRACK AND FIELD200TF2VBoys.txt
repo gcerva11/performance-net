@@ -1,0 +1,15 @@
+1	12	Joey Stout		22.01a SchoolFour
+2	12	Rusty Jones		22.37a SchoolThree
+3	11	Blayne Siebert		22.57a SchoolFour
+4	12	Gabriel Hernandez		23.52a SchoolThree
+5	12	Larsen Jordon		23.56a SchoolTwo
+6	10	Carson Lamb		23.72a SchoolThree
+7	10	Joseph Ramirez		23.79a SchoolThree
+8	11	Derrick Kirkendall		23.87a SchoolThree
+9	10	Eric Myles		23.91a SchoolFive
+10	11	Aiden Muhammad		24.20a SchoolFive
+11	11	Charles McNary		24.23aPR SchoolThree
+12	12	Jamel Foreman		24.24a SchoolThree
+13	10	Roman Quintero		24.29a SchoolThree
+14	11	Noah Hin		24.52a SchoolFive
+15	11	Sean Forte		24.66a SchoolFour

@@ -1,0 +1,15 @@
+1	11	Zoe Lamur		1:01.71a SchoolThree
+2	12	Ava Torres		1:01.78aSR SchoolThree
+3	11	Abigail Davis		1:03.37a SchoolFive
+4	9	Karma Warren		1:03.78a SchoolTwo
+5	11	Emma Ward		1:04.90aSR SchoolThree
+6	11	Kealani Solis-Coelho		1:05.54aPR SchoolThree
+7	11	Kaytlynn Nice		1:05.63aSR SchoolFive
+8	12	Taylor Salsman		1:05.91aPR SchoolFive
+9	11	Sofia Mort		1:08.43aSR SchoolFive
+10	12	Julia Ayard Albor		1:11.50aSR SchoolFive
+11	12	Ashley Ibarra		1:11.54aPR SchoolTwo
+12	12	Haylie Reyes		1:11.63aPR SchoolFive
+13	12	Isamar Castellanos		1:11.81aPR SchoolFive
+14	11	Arianna Tejeda		1:12.35aSR SchoolOne
+15	12	Emmalee Gray		1:12.97aPR SchoolThree

@@ -1,0 +1,15 @@
+1	9	Daniel Garcia		55.85a SchoolOne
+2	10	Matthew Tsymbal		55.88aPR SchoolThree
+3	10	Jesus Moreno		56.10a SchoolOne
+4	10	Thomas Suarez		56.16aPR SchoolFour
+5   10	Christopher Bonilla		56.66a SchoolOne
+6	9	Cole Martin		57.02a SchoolFour
+7	9	Alan Ovrahim		57.78a SchoolTwo
+8	9	Elias Latronica		58.37aPR SchoolThree
+9	10	Diego Juarez		59.47a SchoolTwo
+10	10	Torriano Moore		1:00.38aPR SchoolTwo
+11	10	Jayseon Hurt		1:00.89aPR SchoolThree
+12	10	Alex Neesan		1:01.16a SchoolTwo
+13	9	Andres Cardenas		1:01.89aPR SchoolFour
+14	9	Eli McLeland		1:01.97a SchoolTwo
+15	10	Anthony Valencia		1:02.12a SchoolTwo

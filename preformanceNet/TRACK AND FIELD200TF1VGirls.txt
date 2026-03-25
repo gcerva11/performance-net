@@ -1,0 +1,15 @@
+1	11	Natalie Thorning		26.82a SchoolFour
+2	12	Jada Orona		27.47a SchoolThree
+3	11	Abigail Davis		27.90aSR SchoolFour
+4	9	Karma Warren		27.99a SchoolTwo
+5	10	Jayla Brown		28.11aSR SchoolFour
+6	11	Alexa Sandoval		28.25aSR SchoolThree
+7	11	Eris Lombrana		28.54aPR SchoolTwo
+8	11	Emma Ward		28.55aPR SchoolThree
+9	11	Joslyn Sheppard		28.68aPR SchoolThree
+10	12	Taylor Salsman		28.89aPR SchoolFour
+11	11	Kealani Solis-Coelho		29.18a SchoolThree
+12	11	Charlize Phitsamay		29.35aPR SchoolThree
+13	11	Sarina Ramirez		29.43aPR SchoolThree
+14	12	Elisa Ocegueda		29.68aSR SchoolThree
+15	11	Kaira Borrell		29.85a SchoolFour

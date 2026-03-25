@@ -1,0 +1,15 @@
+1 10 Jovani Franco 11:31.12 SchoolOne
+2 9 Zayn Hamilton 11:34.85 SchoolThree
+3 10 Gabriel Avalos 11:35.82 SchoolThree
+4 9 Gavin Martin 11:37.09 SchoolThree
+5 10 Lukas Gemperle 11:38.50 SchoolThree
+6 10 Larson Wejmar 11:44.43 SchoolThree
+7 10 Jude Tecson 11:45.30 SchoolOne
+8 10 Luke Oliveira 11:46.03 SchoolThree
+9 10 Ayden Mendonca 11:46.29 SchoolThree
+10 9 Samuel Oppenhuizen 11:46.29 SchoolThree
+11 9 Alexander Rodriguez Perez 11:51.97 SchoolOne
+12 9 Joe Travao 12:03.76 SchoolOne
+13 10 David Cisneros 12:08.81 SchoolFour
+14 10 Santiago Anaya Plata 12:18.99 SchoolThree
+15 9 Eli Pimentel 12:22.73 SchoolFour
